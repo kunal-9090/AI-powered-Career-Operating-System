@@ -2,6 +2,11 @@
 
 CareerOS is a high-end React portfolio website for an AI-powered career operating system. It is designed to present a UI/UX case study with cinematic motion, deep product strategy, premium dark-blue visual design, and responsive product screens.
 
+## Live Demo
+
+- Website: https://ai-powered-career-operating-system.vercel.app
+- Case study: https://ai-powered-career-operating-system.vercel.app/case-study.html
+
 ## Stack
 
 - React 19
@@ -49,4 +54,3 @@ The optimized site is generated in `dist/`.
 - `src/styles.css` — Tailwind entry and global motion/accessibility styles
 - `tailwind.config.js` — design tokens and Tailwind configuration
 - `CareerOS_UX_Case_Study.md` — written UX strategy and case study
-
